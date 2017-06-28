@@ -1,0 +1,4 @@
+target/
+.idea/
+MySchoolRank.iml
+src/main/resources/MySchoolRankSettings.txt
