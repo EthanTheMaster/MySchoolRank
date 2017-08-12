@@ -42,6 +42,7 @@ if(request.getSession().getAttribute("Email") == null){
                         <option value="9">9th Grade</option>
                         <option value="10">10th Grade</option>
                         <option value="11">11th Grade</option>
+                        <option value="12">12th Grade</option>
                     </select>
                     <input type="button" onclick="filterList()" value="Update List"><br>
                 </form>
